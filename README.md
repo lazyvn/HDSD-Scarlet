@@ -11,7 +11,8 @@
 Bước 1: Cài đặt Scarlet.
 Có rất nhiều cách để cài đặt Scarlet, tuy nhiên bài viết này sẽ không đề cập đến vấn đề này mà chỉ hướng dẫn cách sử dụng.
 
-Nếu bạn đang dùng iOS 16 hoặc hơn, sau khi cài đặt Scarlet: Vào Cài đặt -> Quyền riêng tư & Bảo mật -> Chế độ Nhà phát triển -> bật lên.
+Nếu bạn đang dùng iOS 16 hoặc hơn, sau khi cài đặt Scarlet: Vào Cài đặt -> Quyền riêng tư & Bảo mật -> Chế độ Nhà phát triển -> bật lên 
+thiết bị sẽ yêu cầu khởi động lại là xong.
 
 Bước 2: vào lại scarlet Import (nhập) chứng chỉ.
 Để import chứng chỉ thì bạn cần phải có file chứng chỉ (mua hoặc miễn phí trên mạng), file chứng chỉ sẽ bao gồm:
