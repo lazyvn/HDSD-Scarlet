@@ -16,9 +16,9 @@ Nếu bạn đang dùng iOS 16 hoặc hơn, sau khi cài đặt Scarlet: Vào C�
 Bước 2: vào lại scarlet Import (nhập) chứng chỉ.
 Để import chứng chỉ thì bạn cần phải có file chứng chỉ (mua hoặc miễn phí trên mạng), file chứng chỉ sẽ bao gồm:
 
-**File p12.**
-**File mobileprovision.**
-**Mật khẩu của file p12.**
+- **File p12.**
+- **File mobileprovision.**
+- **Mật khẩu của file p12.**
 
 nếu trường hợp file không có pass hãy để trống và ấn nhập(import)
 
