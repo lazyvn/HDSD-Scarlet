@@ -26,7 +26,7 @@ Thông thường, file chứng chỉ sẽ được nén ở định dạng zip �
 
 Lưu ý: đối với scarlet bạn hãy vào ứng dụng **tệp** để giải nén file zip, rar, tùy từng file mà bạn nhận....,sau khi giải nén sẽ gồm 2 file như mình đã nói trên
 
-2.1: Sau khi đã tải file ZIP cert (chứng chỉ) về máy, tiến hành mở app scarlet và chọn tab File -> Bấm vào dấu mũi tên ở góc phải -> Chọn Nhập và tìm đến file **.P12** vừa được giải nén trong tệp tiếp đến là file ..**MOBIPROVISON** sau đó là nhập **PASS** pass sẽ được cấp lúc bạn mua, nhập xong click vào chứng chỉ để hiện dấu chấm xanh là đã xong.
+2.1: Sau khi đã tải file ZIP cert (chứng chỉ) về máy, tiến hành mở app scarlet và chọn tab File -> **Ấn giữ** vào dấu mũi tên ở góc phải -> Chọn Nhập và tìm đến file **.P12** vừa được giải nén trong tệp tiếp đến là file ..**MOBIPROVISON** sau đó là nhập **PASS** pass sẽ được cấp lúc bạn mua, nhập xong click vào chứng chỉ để hiện dấu chấm xanh là đã xong.
 
 ![Website template](https://lazyvn.github.io/img/hd1.jpg)
 
