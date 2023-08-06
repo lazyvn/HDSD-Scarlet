@@ -1,4 +1,7 @@
 # Hướng dẫn sủ dụng Scarlet Cở bản 
+
+- Telegram kho IPA update hằng ngày[Xem ngay](https://t.me/ioshackkingchannel)
+
 - bạn có thể liên hệ mua chứng chỉ [Tại đây](https://t.me/lazylor).
 
 - Website scarlet chính thức [Here](https://usescarlet.com/).
