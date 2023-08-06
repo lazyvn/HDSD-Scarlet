@@ -1,7 +1,7 @@
 # Hướng dẫn sủ dụng Scarlet Cở bản 
-bạn có thể liên hệ mua chứng chỉ [Tại đây](https://t.me/lazylor).
+- bạn có thể liên hệ mua chứng chỉ [Tại đây](https://t.me/lazylor).
 
-Website scarlet chính thức [Here](https://usescarlet.com/).
+- Website scarlet chính thức [Here](https://usescarlet.com/).
 
 **làm theo các bước dưới đây**
  
@@ -33,13 +33,13 @@ Lưu ý: đối với scarlet bạn hãy vào ứng dụng **tệp** để giả
 
 ![Website template](https://lazyvn.github.io/img/hd4.jpg)
 
-trên đây là mình đã hướng dẫn cách nhập chứng chỉ cơ bản vào **Scalet**
+- trên đây là mình đã hướng dẫn cách nhập chứng chỉ cơ bản vào **Scalet**
 
 **Tiếp theo là cách nhập ipa và cài đặt**
 
-bạn chuẩn bị file có đuôi .IPA có thể tải đâu đó trên mạng hoặc bạn có thể tham khảo IPA [Tại Đây](https://t.me/ioshackkingchannel).
+- bạn chuẩn bị file có đuôi .IPA có thể tải đâu đó trên mạng hoặc bạn có thể tham khảo IPA [Tại Đây](https://t.me/ioshackkingchannel).
 
-Vào lại scarlet ấn vào dấu mũi tên gốc phải, sau đó tìm đến mục lưu IPA vừa tải về, click vào file IPA , sau đó đợi scarlet tự động cài đặt, 
+- Vào lại scarlet ấn vào dấu mũi tên gốc phải, sau đó tìm đến mục lưu IPA vừa tải về, click vào file IPA , sau đó đợi scarlet tự động cài đặt, 
 sau khi đã chạy đủ 100% bạn hãy đợi khoang 3 giây sẽ hiện lên popup cài đặt, bn có thể ấn cài đặt hoặc hủy
 
 ![Website templale](https://lazyvn.github.io/img/hd1.jpg)
@@ -48,15 +48,15 @@ sau khi đã chạy đủ 100% bạn hãy đợi khoang 3 giây sẽ hiện lên
 trên đây là mình đã hướng dẫn cách cài đặt IPA cơ bản vào **Scalet**
 
 **tiếp theo là cách nhập nguồn(REPO) vào Scarlet**
-bạn có thể tham khảo Repo của mình tại **Trang chủ**
+- bạn có thể tham khảo Repo của mình tại **Trang chủ**
 
-vào lại Scarlet ngay gốc phải ở giữa màn hình bạn sẽ thấy dấu **+** click vào , sau đó popup sẽ hiện lên, bạn chỉ cần nhập đúng đường link REPO vào 
+- vào lại Scarlet ngay gốc phải ở giữa màn hình bạn sẽ thấy dấu **+** click vào , sau đó popup sẽ hiện lên, bạn chỉ cần nhập đúng đường link REPO vào 
 và nhấp **ADD REPO** ngay sau đó sẽ xuất hiện kho ứng dụng trực tiếp sẵn trong Scarlet bạn có thể cài đặt các ứng dụng có sẵn trong Repo.
 
 ![Website template](https://lazyvn.github.io/img/hd6.png)
 ![Website template](https://lazyvn.github.io/img/hd7.png)
 ![Website template](https://lazyvn.github.io/img/hd8.png)
 
-Chúc các bạn thành công. 
+- Chúc các bạn thành công. 
 
 Quay lại [Trang Chủ](https://lazyvn.com)
