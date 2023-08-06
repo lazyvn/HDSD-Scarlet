@@ -48,14 +48,14 @@ sau khi đã chạy đủ 100% bạn hãy đợi khoang 3 giây sẽ hiện lên
 trên đây là mình đã hướng dẫn cách cài đặt IPA cơ bản vào **Scalet**
 
 **tiếp theo là cách nhập nguồn(REPO) vào Scarlet**
-bạn có thể tham khảo Repo của mình [Tại Đây](scarlet://addsource?url=https://lazyvn.com/repo/app.json).
+bạn có thể tham khảo Repo của mình tại **Trang chủ**
 
 vào lại Scarlet ngay gốc phải ở giữa màn hình bạn sẽ thấy dấu **+** click vào , sau đó popup sẽ hiện lên, bạn chỉ cần nhập đúng đường link REPO vào 
 và nhấp **ADD REPO** ngay sau đó sẽ xuất hiện kho ứng dụng trực tiếp sẵn trong Scarlet bạn có thể cài đặt các ứng dụng có sẵn trong Repo.
 
 ![Website template](https://lazyvn.github.io/img/hd6.png)
 ![Website template](https://lazyvn.github.io/img/hd7.png)
-![Website template](https://lazyvn.github.io/img/hd7.png)
+![Website template](https://lazyvn.github.io/img/hd8.png)
 
 Chúc các bạn thành công. 
 
